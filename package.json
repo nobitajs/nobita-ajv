@@ -1,6 +1,6 @@
 {
   "name": "nobita-ajv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nobita-ajv",
   "main": "lib/nobita-ajv.js",
   "dependencies": {
